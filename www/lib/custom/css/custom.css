@@ -1,0 +1,17 @@
+<!-- custom CSS -->
+
+.bold {
+  font-weight: bold;
+}
+
+.width-30-pct{
+    width:30%;
+}
+
+.margin-bottom-1em{
+    margin-bottom:1em;
+}
+
+.pagination li.active {
+    background-color: #0D47A1;
+}
